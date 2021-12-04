@@ -1,5 +1,7 @@
 ### Hi I'm Junpei 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=pesso-yampee&layout=compact)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pesso-yampee&theme=react&show_icons=true&layout=compact)](https://github.com/pesso-yampee/github-readme-stats)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
